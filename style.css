@@ -1,0 +1,324 @@
+body{
+	padding:0;
+	margin:0;
+}
+/*---------------landing-page---------------*/
+
+.head-para1{
+	color:  #DC982E;
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+.navbar-nav li:first-child a{
+	color:#DC982E !important; 
+	font-weight: 600 !important;
+}
+.navbar-nav li:last-child a{
+	color:#fff !important;
+	background:#DC982E;
+	border-radius: 20px;
+	width:;
+	font-weight: 600;
+}
+.navbar-toggler{
+	outline:none !important;
+	border:none !important;
+}
+.navbar-nav{
+	float: center;
+	text-align: center;
+}
+.landing-page .head-para2{
+	margin-top:2%;
+	color:#808080	;
+}
+.landing-page .intro-inner-row{
+	background:#F8F8FF;
+	padding: 11% 5%;
+	margin:1% auto;
+	align-items: center;
+	width: 80%;
+	color:#808080; 
+	box-shadow: 0px 5px 22px 0px rgba(117,111,117,0.2);
+}
+header{
+	background:#F5F5F5;
+}
+
+.main-mid-image{
+	margin:1% 0;
+}
+.intro-inner-last-row{
+	padding: 11% 5%;
+	margin:1% auto;
+	
+	width: 80%;
+}
+.main-row-items{
+	margin:8% 0;
+}
+.intro-inner-last-row-para{
+	color:#808080; 
+}
+/*---------------------benefits/section1--------------------*/
+.section1 .benefits-row .col-md-4{
+	padding:70px;
+}
+.benefits-heading{
+	color:#DC982E; 
+	font-weight: 600;
+}
+.benefits-para{
+	color: #808080;
+	margin-top:10%;
+}
+.fa-bullseye{
+	color:#8A2BE2;
+}
+.fa-paint-brush{
+	color:#32CD32;
+}
+.fa-comment-o{
+	color:#00CED1;
+}
+.fa-handshake-o{
+color:#FF6347;
+}
+/*-----------------panel/section2------------------*/
+.panel-para1{
+	color:#DC982E;
+}
+.panel-chapter-no{
+	color:#DC982E;
+}
+.panel-chapter-head{
+	color: #808080;
+}
+.section2{
+	background:#F8F8FF;
+	height:100%;
+}
+.panel-head{
+	margin-top:8%;
+	margin-bottom:12%;
+}
+.panel-head .panel-para2{
+	margin-top:3%;
+		color: #808080;
+
+}
+.panel-box{
+	width:90%;
+	margin:0 auto;
+	margin-bottom:8%;
+	min-height:600px;
+	background:#FFFFFF;
+	position: relative;
+}
+.panel-box-left-content{
+	float: left;
+	display: inline-block;	
+}
+.panel-box-right-content{
+	float: right;
+	display: inline-block;
+}
+.panel-box .panel-row{
+	padding:0 2%;
+}
+.panel-box-right-content i{
+	width: 20px;
+}
+.panel-box-left-content .fa{
+	padding-right:10px; 
+}
+.panel-book-content-index ul{
+	padding:0;
+	margin:0;
+	list-style: none;
+	color:#696969; 
+
+}
+.panel-book-content-index{
+	padding: 4%;
+
+}
+.panel-book-content-index ul li{
+	margin-bottom:8%;
+	color: #808080;
+}
+.panel-content-summary{
+	padding-top:4%;
+
+}
+.panel-user{
+	position: absolute;
+	top:50%;
+	transform:translateY(-50%);
+	right: -3%;
+
+}
+.panel-user .fa{
+	margin-bottom:40%;
+}
+.panel-box-right-content .fa-search{
+	color: #808080;
+}
+/*------------------sub-box-----------------*/
+
+/*.sub-box{
+	width:60%;
+	margin:0 auto;
+	background:#FFFFFF;
+	box-shadow: 0 1px 1px #000;
+	position: absolute;
+	bottom: -100px;
+}*/
+/*---------------------section-3-----------------*/
+.section3 .card .card-img{
+	border-radius: 50%;
+	height:100px;
+	width:100px;
+	left:50%;
+	position: relative;
+	transform: translateX(-50%);
+	margin-top: 10px;
+
+
+}
+.section3{
+	margin-bottom:10%;
+	margin-top:5%;
+}
+.card{
+	margin:1%;
+
+}
+.section3 .card .card-body .border1{
+	width:60px;
+	height:2px;
+	background:#DC982E;
+	text-align: center;
+	margin:0 auto;
+	border-radius:20px;
+	margin-bottom:6%;
+	margin-top:9%;
+}
+.section3 .card .card-body .border2{
+	width:60px;
+	height:2px;
+	background:#8A2BE2;
+	text-align: center;
+	margin:0 auto;
+	border-radius:20px;
+	margin-bottom:6%;
+	margin-top:9%;
+}
+.section3 .card .card-body .border3{
+	width:60px;
+	height:2px;
+	background:#DC143C;
+	text-align: center;
+	margin:0 auto;
+	border-radius:20px;
+	margin-bottom:6%;
+	margin-top:9%;
+}
+.section3 .testimonial-head-para2{
+	margin-bottom:10%;
+	margin-top:3%;
+	color:#808080;
+}
+.testimonial-head-para1{
+	color:  #DC982E;
+	letter-spacing: 2px;
+}
+.section3 .card-text{
+	font-weight: bold;
+}
+.card-title1{
+	color:#DC982E;
+	font-weight: 800;
+	letter-spacing: 1px;
+
+}
+
+.card-title2{
+	color:#8A2BE2;
+	font-weight: 800;
+	letter-spacing: 1px;
+}
+.card-title3{
+	color:#DC143C	;
+	font-weight: 800;
+	letter-spacing: 1px;
+}
+.after-border-text{
+	color:#808080;
+}
+/*---------------join us---------------*/
+
+
+.section4 .joinus{
+	width: 50%;
+	margin:0 auto;
+	margin-bottom:10%;
+}
+.section4 .joinus a{
+	display:inline-block;
+	
+	padding: 20px 50px;
+	border-radius: 50px;
+	margin:0 auto;
+}
+.section4 .join-head-para2{
+	margin-top:6%;
+	margin-bottom:10%;
+	color:#808080;
+}
+.section4 footer{
+	margin-top:20%;
+	margin-bottom: 6%;
+}
+.section footer .navbar{
+	position: relative;
+}
+.mid-list{
+	width: 20%;
+	left:50%;
+	transform: translateX(-50%);
+	display: inline-block;
+	position: absolute;
+	}
+	.mid-list ul{
+		list-style: none;
+		display: flex;
+		padding:0;
+		margin:0;
+		text-align: center;
+	}
+	.mid-list ul li{
+		width: 25%;
+		text-align: center;
+		cursor: pointer;
+		color: #808080;
+	}
+	.footer-paras{
+		margin-top:3% !important;
+		width: 80%;
+		margin:0 auto;
+	}
+.join-head-para1{
+	font-weight: 600;
+	color:#DC982E;
+	letter-spacing: 2px;
+}
+.joinus .btn{
+	background:#DC982E !important;
+	color: #fff !important;
+	border:none !important;
+	outline:none !important;
+}
+.footer-para2{
+	color:#808080;
+}
